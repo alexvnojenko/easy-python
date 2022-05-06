@@ -18,3 +18,4 @@ def main():
     print(f"Your combined: {str_comb}, your split: {str_split}")
 if __name__ == "__main__":
     main()
+
